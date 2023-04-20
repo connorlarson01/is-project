@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: black;
+    background-color: rgb(171, 195, 234);
+}
+li{
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+    color: rgb(66, 62, 62);
+}
+a{
+    color: blue;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+a:visited{
+    color: purple;
+}
